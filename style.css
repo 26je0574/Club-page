@@ -1,0 +1,6 @@
+body { margin: 0; font-family: system-ui, sans-serif; line-height: 1.5; }
+.site-header { background: #444444; color: white; padding: 1.5rem 1rem; }
+main { max-width: 50rem; margin: 0 auto; padding: 1rem; }
+table { width: 100%; border-collapse: collapse; }
+th, td { text-align: left; padding: 0.5rem; border-bottom: 1px solid #ccc; }
+footer { text-align: center; padding: 1rem; color: #555; }
